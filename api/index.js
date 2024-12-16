@@ -1,6 +1,6 @@
 const express = require("express");
-const autorRoutes = require("./src/rutas/rutaAutor");
-const libroRoutes = require("./src/rutas/rutaLibro");
+const autorRoutes = require("../src/rutas/rutaAutor");
+const libroRoutes = require("../src/rutas/rutaLibro");
 const cors = require("cors");
 
 const app = express();

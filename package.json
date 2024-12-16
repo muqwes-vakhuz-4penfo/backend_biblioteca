@@ -2,6 +2,8 @@
   "name": "api_biblioteca",
   "version": "1.0.0",
   "main": "app.js",
+  "type": "commonjs",
+  "license": "MIT",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
