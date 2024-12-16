@@ -1,0 +1,96 @@
+{
+    "autores": [
+        {
+            "id": 1,
+            "nombre": "Pedro Mir",
+            "nacionalidad": "Dominicana"
+        },
+        {
+            "id": 2,
+            "nombre": "Juan Bosch",
+            "nacionalidad": "Dominicana"
+        },
+        {
+            "id": 3,
+            "nombre": "Marcio Veloz Maggiolo",
+            "nacionalidad": "Dominicana"
+        },
+        {
+            "id": 4,
+            "nombre": "Manuel del Cabral",
+            "nacionalidad": "Dominicana"
+        }
+    ],
+    "libros": [
+        {
+            "id": 1,
+            "titulo": "Hay un país en el mundo",
+            "autor": {
+                "id": 1,
+                "nombre": "Pedro Mir",
+                "nacionalidad": "Dominicana"
+            },
+            "disponible": true
+        },
+        {
+            "id": 2,
+            "titulo": "La Mañosa",
+            "autor": {
+                "id": 2,
+                "nombre": "Juan Bosch",
+                "nacionalidad": "Dominicana"
+            },
+            "disponible": true
+        },
+        {
+            "id": 3,
+            "titulo": "Cuentos escritos en el exilio",
+            "autor": {
+                "id": 2,
+                "nombre": "Juan Bosch",
+                "nacionalidad": "Dominicana"
+            },
+            "disponible": false
+        },
+        {
+            "id": 4,
+            "titulo": "La vida no tiene nombre",
+            "autor": {
+                "id": 3,
+                "nombre": "Marcio Veloz Maggiolo",
+                "nacionalidad": "Dominicana"
+            },
+            "disponible": true
+        },
+        {
+            "id": 5,
+            "titulo": "El hombre del acordeón",
+            "autor": {
+                "id": 3,
+                "nombre": "Marcio Veloz Maggiolo",
+                "nacionalidad": "Dominicana"
+            },
+            "disponible": false
+        },
+        {
+            "id": 6,
+            "titulo": "Compadre Mon",
+            "autor": {
+                "id": 4,
+                "nombre": "Manuel del Cabral",
+                "nacionalidad": "Dominicana"
+            },
+            "disponible": true
+        },
+        {
+            "id": 7,
+            "titulo": "Chinola Kid",
+            "autor": {
+                "id": 4,
+                "nombre": "Manuel del Cabral",
+                "nacionalidad": "Dominicana"
+            },
+            "disponible": true
+        }
+    ]
+}
